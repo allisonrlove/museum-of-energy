@@ -19,8 +19,7 @@ tags:
   - civilian
 ---
 
-# My Energy Essay
-
+# Nuclear Energy
 
 This is sample content. Replace it with your essay, images about your topic, and at the end an image of your 3D-printed object. 
 
