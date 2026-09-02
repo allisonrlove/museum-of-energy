@@ -8,7 +8,6 @@ header-title: Nuclear Energy
 header-tier: banner
 header-position: center 38%
 thumbnail: image/rancho-seco.jpg
-
 summary: The first four light bulbs powered by nuclear energy in 1951.
 geo: [43.5197, -112.0469]
 placename: Argonne National Laboratory in Idaho
