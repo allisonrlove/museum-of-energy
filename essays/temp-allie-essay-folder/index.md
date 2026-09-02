@@ -21,7 +21,7 @@ tags:
 
 # Nuclear Energy
 
-This is sample content. Replace it with your essay, images about your topic, and at the end an image of your 3D-printed object. 
+Hi this is my essay. 
 
 {% include images/figure.html
   image-path="images/first-four-bulbs.jpeg"
