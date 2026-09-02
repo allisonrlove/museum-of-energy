@@ -88,7 +88,7 @@ PAGE SETUP & CUSTOMIZATION
   --code-name: var(--syntax-sky);
   --code-literal: var(--syntax-coral);
   --code-quiet: var(--syntax-quiet);
-  --bg-nav: var(--sage-deep);
+  --bg-nav: #293E37;
   --bg-section-alt: var(--bg-card);
   /* A flat stand-in for the alt band, for components that need a colour rather
      than a background — a gradient cannot be a colour stop inside another
