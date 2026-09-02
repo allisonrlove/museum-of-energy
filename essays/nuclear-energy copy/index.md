@@ -19,12 +19,13 @@ tags:
   - civilian
 ---
 
-# Nuclear Energy
+# My Energy Essay
 
-Hi this is my essay. 
+
+This is sample content. Replace it with your essay, images about your topic, and at the end an image of your 3D-printed object. 
 
 {% include images/figure.html
-  image-path="/images/powerlines.jpg"
+  image-path="images/first-four-bulbs.jpeg"
   image-width="55%"
   alt-text="The first four light bulbs powered by nuclear energy in 1951."
   caption="The first four light bulbs powered by nuclear energy in 1951. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:First_four_nuclear_lit_bulbs.jpeg), open access."
