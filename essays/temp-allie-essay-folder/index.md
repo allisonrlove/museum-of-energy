@@ -7,7 +7,7 @@ header-image: images/rancho-seco.jpg
 header-title: Nuclear Energy
 header-tier: banner
 header-position: center 38%
-thumbnail: /images/powerlines.jpg
+thumbnail: images/powerlines.jpg
 summary: The first four light bulbs powered by nuclear energy in 1951.
 geo: [43.5197, -112.0469]
 placename: Argonne National Laboratory in Idaho
@@ -24,7 +24,7 @@ tags:
 Hi this is my essay. 
 
 {% include images/figure.html
-  image-path="/images/powerlines.jpg"
+  image-path="images/powerlines.jpg"
   image-width="55%"
   alt-text="The first four light bulbs powered by nuclear energy in 1951."
   caption="The first four light bulbs powered by nuclear energy in 1951. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:First_four_nuclear_lit_bulbs.jpeg), open access."
